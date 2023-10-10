@@ -13,7 +13,7 @@ N/A
 
 To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Coomand+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the Webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
-![alt text] (assets/images/study-guide-console-snap.png)
+![alt webpage with open console](assets/images/study-guide-console-snap.png)
 
 ## Credits
 
